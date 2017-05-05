@@ -34,8 +34,12 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 #-----------BAŞLANGIÇ------------------#
+
 gem 'simple_form'
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass'
+
+# gem 'bootstrap-sass', '~> 3.3.6'
+# gem 'sass-rails', '>= 3.2'
 
 
 
